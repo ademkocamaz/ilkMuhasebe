@@ -1,2 +1,2 @@
 # ilkMuhasebe
-Ön Muhasebe
+Python, Django ve Electron ile Ön Muhasebe Projesi
