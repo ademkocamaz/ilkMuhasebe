@@ -1,0 +1,3 @@
+[submodule "Source/django-ledger"]
+	path = Source/django-ledger
+	url = https://github.com/ademkocamaz/django-ledger.git
